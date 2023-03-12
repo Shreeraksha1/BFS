@@ -1,0 +1,95 @@
+body{
+    background-color:#FFF200 ;
+}
+.container-fluid{
+    padding: 0;
+}
+h1{
+    font-family: "Tilt Warp";
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+}
+h3{
+    text-align: center; 
+    padding: 1rem;
+}
+.heading{
+    pad: 3rem;
+    margin-top: 50px;
+}
+.Collaborate{
+    text-align: center;
+    padding: 3rem;
+
+}
+/* Navigation Bar */
+
+.navbar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.navbar-brand{ 
+    font-family: "Open Sans";
+    font-size: 2.8rem;
+    font-weight: bolder;
+    padding: 1%;
+    padding-left: 50px;
+    
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1 rem;
+    font-family: "Open Sans";
+    font-weight: normal;
+}
+.title-image{
+    opacity: 0.7;
+    height: 1000px;
+    width: 1349px;
+}
+
+.box{
+    text-align: center;
+    padding: 5rem;
+}
+.alter{
+    background-color: black;
+}
+.form{
+    padding: 50px 60px 60px 0px;
+    
+} 
+.form-1{
+    font-family: 'Arial Narrow Bold','Segoe UI', sans-serif;
+}
+
+.story{
+    padding: 4%;
+}
+
+.bottom-container{
+    background-color: black;
+    height: 110px;
+    margin: 50px auto auto;
+    line-height: 2.5;
+    padding-top: 30px;
+    text-align: center;
+
+} 
+.name1{
+    color: #fff;
+    font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
+}  
+.footer-link{
+    color:  #fff;
+    padding: 20px;
+    font-family:'Trebuchet MS', 'Segoe UI', sans-serif;
+    text-decoration-line: none;
+}
+.footer-link:hover{
+    color: rgb(252, 252, 66);
+}
